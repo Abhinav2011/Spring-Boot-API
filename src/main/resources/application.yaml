@@ -1,0 +1,8 @@
+#spring:
+# datasource:
+#    platform: MySQL
+#    url: jdbc:mysql://localhost:3306/FirstSpring
+#    username: root
+#    password: abhinav
+#    driverClassName: com.mysql.cj.jdbc.Driver
+#
